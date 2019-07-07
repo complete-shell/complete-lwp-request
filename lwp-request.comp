@@ -1,6 +1,7 @@
 CompleteShell v0.2
 
 N lwp-request v0.0.1 ..'...'
+M tags perl perl5 http
 
 Unknown option: help
 Usage: lwp-request [-options] <url>...
